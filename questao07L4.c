@@ -1,4 +1,4 @@
-//7) Foi feita uma pesquisa para saber o perfil dos alunos que cursam o ginásio de uma determinada escola. Cada aluno fornecia a sua série (primeira-1, segunda-2, terceira-3 ou quarta-4), 
+//7. Foi feita uma pesquisa para saber o perfil dos alunos que cursam o ginásio de uma determinada escola. Cada aluno fornecia a sua série (primeira-1, segunda-2, terceira-3 ou quarta-4), 
 //quantos livros liam por mês e se gostavam de fazer redação (Sim-1 ou Não-0). Fazer um programa que leia os dados, calcule e imprima:
 //A quantidade de alunos que está na terceira série;
 //A maior quantidade de livros lidos por um aluno que está na quarta série;
