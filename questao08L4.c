@@ -1,3 +1,11 @@
+// 8. Uma empresa realizou uma pesquisa com os seus fornecedores, na qual foram coletados os seguintes dados referentes aos produtos fornecidos:
+// ID, Valor e Percentual de aumento (Obs. Se o produto não tiver sofrido alteração de preço, o percentual de aumento será igual a 0.) Faça um programa que determine e escreva:
+// O novo valor de cada um dos produtos.
+// A quantidade de produtos mais caros que R$ 100,00 (após aumento) e que tiveram aumento superior a 5%.
+// A média de valor dos produtos que não sofreram aumento.
+// O valor do produto mais caro (após aumento).
+// Obs.: o programa solicita dados até que o ID digitado seja zero.
+
 #include <stdio.h>
 
 int main() {
