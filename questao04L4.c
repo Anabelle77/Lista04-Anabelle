@@ -1,4 +1,6 @@
-//4. Um Banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito.
+//4. Um Banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano. 
+//Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo.
+//Mostre uma mensagem informando o saldo médio e o valor do crédito.
 
 #include <stdio.h>
 
