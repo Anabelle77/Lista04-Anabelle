@@ -1,3 +1,5 @@
+//6. Ler um número inteiro, e verificar se o número corresponde a um mês válido no calendário
+// e escrever o nome do mês, senão escrever uma mensagem ‘Mês Inválido’.
 #include <stdio.h>
 
 int main() {
